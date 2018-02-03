@@ -1,0 +1,127 @@
+/* Add here all your CSS customizations */
+#header, .header-body {
+	background-color: rgba(255,255,255,0.9) !important;
+}
+.social-icons li a i {
+	color: #3a3a3c; 
+}
+#home {
+	background-color: #EFF4F7;
+}
+#mainNav li a {
+	font-size: 1em !important;
+	font-weight: bolder !important;
+	color: #000000 !important;
+}
+#mainNav li a:hover, .social-icons li a i:hover {
+	color: #FFFFFF !important;
+	/*text-shadow: 1px 1px 4px #e7e7e7;*/
+}
+.tp-caption {
+	text-shadow: 1px 1px 3px #e7e7e7;
+}
+.tp-caption a {
+	color: #FFFFFF !important;
+	text-shadow: 0px 0px 0px #2D88D6 !important;
+}
+/* Estadisticas */
+.section .parallax {
+	background-color: #FFFFFF !important;
+	margin-bottom: 0px;
+}
+#herramientas-gestion, .section {
+	margin: 0px !important;
+}
+/* Portada Margenes */
+.separador {
+  margin-top: 10px !important;
+  margin-bottom: 5px !important;
+  padding: 10px;
+}
+.titulos-secciones {
+	font-size: 2.1em;
+	font-weight: bolder;
+	margin-top: 60px;
+	margin-bottom: 30px;
+	color: #3a3a3c;
+}
+.subtitulos-secciones {
+	font-size: 1.5em;
+	font-weight: bolder;
+	margin-top: 10px;
+	margin-bottom: 5px;
+	color: #114473;
+}
+.section-padding {
+	padding-right: 170px;
+	padding-left: 170px;
+}
+article {
+	padding-left: 40px;
+}
+.stat-number {
+	font-size: 1.9em !important;
+}
+.img-padding {
+	padding: 30px;
+}
+.separador-min {
+	margin-top: 10px;
+}
+.separador-md {
+	margin-top: 30px;
+}
+.separador-lg {
+	margin-top: 50px;
+}
+.separador-xlg {
+	margin-top: 60px;
+}
+.separador-xxlg {
+	margin-top: 90px;
+}
+.bottom-min {
+	margin-bottom: 10px;
+}
+.bottom-md {
+	margin-bottom: 30px;
+}
+.bottom-lg {
+	margin-bottom: 50px;
+}
+.small-top-bottom-padding {
+	padding-top: 10px;
+	padding-bottom: 5px;
+}
+#footer {
+	margin-top: 0px !important;
+}
+.tp-caption .lead {
+	font-size: 1em !important;
+	width: 100%;
+	text-align: center;
+}
+.herramientas-gestion.light {
+	background-color: #E2E2E2;
+}
+.inverted {
+	background-color: #FFFFFF !important;
+}
+.word-rotate{
+	line-height: 20px !important;
+}
+/* Colors */
+.btn-rs360primary {
+	color: #FFFFFF;
+	background-color: #114473;
+}
+.btn-rs360primary:hover, .get-started a:hover {
+	color: #114473;
+	background-color: transparent;
+	border-color: #114473;
+}
+
+.section-default {
+	margin-top: 0px !important;
+	padding-top: 15px !important;
+}
